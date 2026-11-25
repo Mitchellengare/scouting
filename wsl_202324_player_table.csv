@@ -1,0 +1,297 @@
+player,player_id,team,position,matches,minutes,shots,xg,goals,shots_on_target,xg_per90,shots_per90,passes,pass_pct,prog_passes,prog_passes_per90,shot_assists,assists,carries,carries_per90,dribbles,dribbles_completed,duels,duels_won,interceptions,ball_recoveries,clearances
+Risa Shimizu,25624,West Ham United LFC,Right Center Back,22,2227.3,4,0.33,1,2,0.01,0.16,1000,77.1,449,18.14,9,0,711,28.73,14,8,64,27,32,73,63
+Kirsty Smith,10196,West Ham United LFC,Left Wing Back,22,2192.0,11,1.31,1,3,0.05,0.45,960,69.8,378,15.52,20,0,628,25.78,42,24,59,18,24,105,55
+Khiara Keating,92248,Manchester City WFC,Goalkeeper,22,2147.0,0,0.0,0,0,0.0,0.0,1005,77.3,618,25.91,2,0,727,30.48,0,0,0,0,0,68,0
+Samantha Tierney,135753,Leicester City WFC,Right Center Midfield,22,2146.8,26,3.92,3,11,0.16,1.09,921,74.8,253,10.61,22,3,767,32.16,22,11,56,19,35,142,26
+Mary Alexandra Earps,31538,Manchester United W,Goalkeeper,22,2146.0,0,0.0,0,0,0.0,0.0,874,81.4,470,19.71,0,0,607,25.46,0,0,0,0,0,75,2
+Katie Zelem,31540,Manchester United W,Left Defensive Midfield,22,2144.9,18,1.61,1,6,0.07,0.76,1549,77.3,494,20.73,51,5,1082,45.4,25,21,122,48,20,144,56
+Maya Le Tissier,22337,Manchester United W,Right Center Back,22,2144.8,10,1.3,2,3,0.05,0.42,1640,84.1,715,30.0,7,1,1350,56.65,5,2,56,14,15,121,79
+Guro Bergsvand,276304,Brighton & Hove Albion WFC,Right Center Back,22,2136.0,7,0.66,1,2,0.03,0.29,1146,81.4,483,20.35,2,0,853,35.94,11,4,65,22,25,109,126
+Anna Patten,78072,Aston Villa W,Right Center Back,22,2106.4,11,1.32,1,5,0.06,0.47,1348,84.3,562,24.01,3,1,1113,47.55,19,15,51,12,21,97,115
+Yui Hasegawa,25632,Manchester City WFC,Center Defensive Midfield,22,2086.0,10,0.39,0,2,0.02,0.43,1399,90.2,297,12.81,17,3,1190,51.34,30,22,57,34,44,159,20
+Millie Turner,31536,Manchester United W,Left Center Back,22,2081.9,26,2.57,2,7,0.11,1.12,1538,93.2,444,19.19,2,0,1240,53.61,5,4,48,9,26,91,123
+Grace Fisk,34232,Liverpool WFC,Left Center Back,22,2079.8,8,0.61,1,2,0.03,0.35,1185,86.2,456,19.73,4,1,793,34.32,5,4,68,25,28,88,96
+Megan Connolly,23413,Bristol City WFC,Center Back,22,2064.0,3,0.21,1,1,0.01,0.13,825,68.4,418,18.23,13,1,549,23.94,15,13,42,19,19,107,86
+Viviane Asseyi,25834,West Ham United LFC,Left Wing,22,2057.7,65,9.51,6,19,0.42,2.84,453,70.6,128,5.6,14,1,557,24.36,51,29,95,28,19,83,15
+Amy Rodgers,19417,Bristol City WFC,Right Defensive Midfield,22,2056.3,17,0.95,1,3,0.04,0.74,705,72.5,236,10.33,7,0,507,22.19,21,13,112,48,36,145,35
+Amalie Grønbak Thestrup,15788,Bristol City WFC,Center Forward,22,2037.9,33,5.98,9,22,0.26,1.46,350,67.7,45,1.99,12,0,322,14.22,10,5,82,12,6,70,12
+Megan Finnigan,18254,Everton LFC,Center Back,21,2030.3,11,0.99,3,5,0.04,0.49,1135,90.2,460,20.39,5,0,946,41.94,9,9,56,17,9,45,125
+Hannah Jayne Blundell,17275,Manchester United W,Left Back,22,2026.4,11,0.71,0,4,0.03,0.49,1641,86.3,555,24.65,11,2,1189,52.81,21,13,67,22,28,120,44
+Niamh Charles,15631,Chelsea FCW,Left Back,22,2010.3,23,1.84,2,5,0.08,1.03,1488,80.6,485,21.71,15,6,1113,49.83,50,33,68,23,42,175,44
+Fuka Nagano,299860,Liverpool WFC,Center Defensive Midfield,21,1983.1,6,0.19,0,2,0.01,0.27,831,79.9,271,12.3,7,0,607,27.55,18,9,76,37,43,124,37
+Riko Ueki,401930,West Ham United LFC,Center Forward,22,1978.8,64,6.4,6,24,0.29,2.91,566,71.2,105,4.78,11,1,531,24.15,28,15,97,24,11,59,16
+Laia Aleixandri López,32210,Manchester City WFC,Right Center Back,21,1964.7,14,1.05,1,4,0.05,0.64,1661,91.6,515,23.59,9,3,1326,60.74,20,15,55,23,31,110,67
+Alex Greenwood,10252,Manchester City WFC,Left Center Back,20,1941.7,17,1.13,1,6,0.05,0.79,1991,88.2,679,31.47,16,2,1655,76.71,17,12,59,22,39,134,59
+Courtney Brosnan,31555,Everton LFC,Goalkeeper,20,1933.0,0,0.0,0,0,0.0,0.0,914,83.4,369,17.18,2,0,572,26.63,0,0,0,0,0,93,0
+Clare Wheeler,338059,Everton LFC,Left Wing Back,22,1931.9,2,0.12,0,0,0.01,0.09,963,75.7,316,14.72,7,1,733,34.15,22,13,84,33,53,122,59
+Rachel Daly,5058,Aston Villa W,Center Forward,20,1931.9,67,7.37,8,23,0.34,3.12,573,71.0,164,7.64,15,0,488,22.73,33,17,81,23,15,95,30
+Sophie Howard,15720,Leicester City WFC,Left Center Back,22,1901.8,12,0.98,1,1,0.05,0.57,1059,82.3,465,22.0,2,0,766,36.25,6,4,90,24,42,80,144
+Elisabeth Terland,276301,Brighton & Hove Albion WFC,Center Forward,22,1890.7,74,8.81,13,32,0.42,3.52,325,74.2,70,3.33,9,1,382,18.18,23,14,76,7,4,72,8
+Jutta Rantala,224822,Leicester City WFC,Right Midfield,22,1884.6,54,4.08,5,19,0.19,2.58,782,65.0,226,10.79,34,5,693,33.09,36,17,78,25,5,108,20
+Lauren Hemp,15555,Manchester City WFC,Left Wing,21,1879.4,63,7.07,11,32,0.34,3.02,696,75.6,126,6.03,32,8,794,38.02,56,38,65,18,12,105,6
+Janice Cayman,10100,Leicester City WFC,Left Back,21,1868.9,24,2.32,4,8,0.11,1.16,877,75.1,306,14.74,10,0,553,26.63,11,7,65,31,14,91,41
+Sarah Emma Mayling,19500,Aston Villa W,Right Back,21,1855.8,3,0.85,1,3,0.04,0.15,1100,81.8,301,14.6,9,0,741,35.94,22,8,59,22,32,93,46
+Jessica Carter,19422,Chelsea FCW,Left Center Back,21,1854.1,4,0.44,0,0,0.02,0.19,1397,89.4,475,23.06,3,1,1147,55.68,5,5,65,24,17,116,85
+Mackenzie Arnold,42787,West Ham United LFC,Goalkeeper,19,1852.0,0,0.0,0,0,0.0,0.0,947,78.4,644,31.3,0,0,600,29.16,1,1,0,0,0,115,0
+Sophie Baggaley,16376,Brighton & Hove Albion WFC,Goalkeeper,19,1846.0,0,0.0,0,0,0.0,0.0,731,71.8,494,24.08,0,0,451,21.99,0,0,0,0,0,65,0
+Maria Thorisdottir,4636,Brighton & Hove Albion WFC,Left Center Back,20,1842.5,2,0.16,0,1,0.01,0.1,783,84.9,323,15.78,2,2,624,30.48,15,13,30,14,22,79,122
+Honoka Hayashi,131653,West Ham United LFC,Left Defensive Midfield,21,1840.8,13,1.05,2,4,0.05,0.64,646,81.3,208,10.17,14,3,557,27.23,17,7,64,17,25,110,25
+Ffion Morgan,185543,Bristol City WFC,Right Wing,22,1824.8,12,1.26,1,8,0.06,0.59,493,55.6,171,8.43,12,2,441,21.75,31,10,50,9,47,83,18
+Alessia Russo,47521,Arsenal WFC,Center Forward,22,1824.3,79,13.12,12,27,0.65,3.9,536,79.3,111,5.48,27,4,592,29.21,30,18,76,15,7,93,5
+Ella Toone,31534,Manchester United W,Center Attacking Midfield,22,1818.9,33,3.0,6,12,0.15,1.63,906,79.1,278,13.76,20,4,810,40.08,36,15,26,11,13,93,8
+Jenna Clark,32074,Liverpool WFC,Right Center Back,21,1804.6,9,1.12,1,3,0.06,0.45,817,80.2,317,15.81,4,0,582,29.03,9,3,46,14,18,72,119
+Hawa Cissoko,31157,West Ham United LFC,Right Center Back,20,1801.8,3,0.39,1,2,0.02,0.15,732,80.2,333,16.63,5,0,530,26.47,7,4,50,14,41,90,60
+Eveliina Summanen,191850,Tottenham Hotspur Women,Left Defensive Midfield,20,1801.1,11,0.63,1,4,0.03,0.55,1206,82.8,366,18.29,17,4,838,41.88,11,8,63,30,22,131,38
+Manuela Zinsberger,10237,Arsenal WFC,Goalkeeper,18,1775.0,0,0.0,0,0,0.0,0.0,599,85.8,303,15.36,0,0,433,21.95,0,0,0,0,0,62,0
+Jamie-Lee Napier,32169,Bristol City WFC,Left Wing Back,19,1771.9,11,0.64,0,2,0.03,0.56,539,64.0,191,9.7,4,1,488,24.79,37,17,76,23,29,91,35
+Katie McCabe,15620,Arsenal WFC,Left Back,21,1768.3,29,1.79,3,12,0.09,1.48,1269,77.7,486,24.74,29,2,925,47.08,25,14,49,23,16,145,31
+Julia Zigiotti-Olme,26094,Brighton & Hove Albion WFC,Left Defensive Midfield,20,1741.4,11,0.46,0,4,0.02,0.57,888,73.8,295,15.25,6,1,694,35.87,25,6,69,28,32,121,40
+Gemma Bonner,15554,Liverpool WFC,Center Back,20,1740.4,17,1.18,3,4,0.06,0.88,761,81.2,331,17.12,1,1,540,27.92,10,6,63,16,16,68,169
+Ceri Holland,322359,Liverpool WFC,Left Center Midfield,19,1735.7,31,2.83,2,14,0.15,1.61,621,63.1,223,11.56,18,4,518,26.86,34,13,92,31,22,96,25
+Ashleigh Neville,4848,Tottenham Hotspur Women,Left Back,19,1725.6,15,1.58,1,5,0.08,0.78,965,79.9,374,19.51,18,1,640,33.38,32,18,104,40,34,97,84
+Stephanie-Elise Catley,5000,Arsenal WFC,Left Back,22,1723.3,18,1.16,1,4,0.06,0.94,1196,81.9,333,17.39,18,3,889,46.43,8,7,37,11,11,95,28
+Sophie Roman Haug,24706,Liverpool WFC,Left Center Forward,20,1708.7,52,6.67,7,20,0.35,2.74,602,57.8,174,9.16,14,2,338,17.8,6,2,83,6,10,48,10
+Grace Clinton,46740,Tottenham Hotspur Women,Center Attacking Midfield,20,1704.5,41,2.52,4,18,0.13,2.16,783,78.3,231,12.2,21,4,877,46.31,90,65,89,45,23,150,15
+Caitlin Jade Foord,11338,Arsenal WFC,Left Wing,22,1677.9,49,5.22,4,15,0.28,2.63,636,74.4,118,6.33,20,4,735,39.43,70,36,45,17,10,106,3
+Katie Robinson,21059,Brighton & Hove Albion WFC,Right Wing,22,1676.0,12,2.25,3,5,0.12,0.64,436,66.3,88,4.73,17,2,452,24.27,29,13,50,11,10,94,7
+Chloe Kelly,15570,Manchester City WFC,Right Wing,21,1667.1,72,5.87,5,34,0.32,3.89,777,70.8,128,6.91,47,5,788,42.54,72,35,39,15,6,78,10
+María Victoria Losada Gómez,10158,Brighton & Hove Albion WFC,Right Defensive Midfield,21,1654.7,8,0.97,1,4,0.05,0.44,848,77.6,233,12.67,18,1,720,39.16,16,10,70,37,27,134,20
+Carlotte Wubben-Moy,49697,Arsenal WFC,Left Center Back,18,1647.2,19,1.97,1,5,0.11,1.04,1452,88.3,679,37.1,5,0,1216,66.44,14,9,53,17,21,126,57
+Julie Thibaud,30856,Leicester City WFC,Left Center Back,20,1635.2,5,0.59,0,2,0.03,0.28,1045,80.0,450,24.77,6,0,796,43.81,7,5,72,18,35,124,72
+Carrie Jones,84765,Bristol City WFC,Left Defensive Midfield,18,1634.2,20,2.24,3,7,0.12,1.1,372,69.1,107,5.89,4,0,415,22.86,43,21,77,27,21,113,10
+Victoria Pelova,63788,Arsenal WFC,Right Defensive Midfield,22,1632.5,26,2.93,2,7,0.16,1.43,858,80.8,208,11.47,21,5,852,46.97,36,23,52,32,18,144,15
+Aurora Galli,10225,Everton LFC,Left Defensive Midfield,19,1631.8,13,1.67,3,3,0.09,0.72,777,79.3,220,12.13,7,2,668,36.84,35,24,50,18,20,129,25
+Molly Bartrip,21021,Tottenham Hotspur Women,Left Center Back,18,1625.5,0,0.0,0,0,0.0,0.0,1018,90.7,411,22.76,2,0,796,44.07,2,2,50,15,16,55,85
+Rachel Corsie,4984,Aston Villa W,Left Center Back,21,1619.9,11,1.41,0,3,0.08,0.61,975,85.9,356,19.78,10,2,705,39.17,6,4,40,9,12,81,63
+Lena Petermann,10260,Leicester City WFC,Center Forward,20,1613.6,32,4.06,5,9,0.23,1.78,478,69.2,91,5.08,11,2,419,23.37,21,12,85,18,6,79,33
+Justine Vanhaevermaet,63308,Everton LFC,Right Center Back,19,1608.3,13,3.16,1,6,0.18,0.73,884,80.7,329,18.41,5,0,680,38.05,12,6,51,22,19,74,72
+Katja Snoeijs,46459,Everton LFC,Center Forward,19,1600.5,25,3.71,3,9,0.21,1.41,383,74.4,70,3.94,14,1,363,20.41,18,10,54,19,10,56,17
+Noelle Maritz,10404,Aston Villa W,Right Back,20,1571.0,4,0.15,0,0,0.01,0.23,973,83.5,303,17.36,6,0,677,38.78,13,7,56,21,14,58,44
+Erin Cuthbert,4660,Chelsea FCW,Right Defensive Midfield,20,1563.7,43,3.02,4,10,0.17,2.47,948,81.2,246,14.16,23,1,846,48.69,29,16,84,51,29,186,16
+Jordan Nobbs,10192,Aston Villa W,Right Center Midfield,22,1554.4,23,1.95,2,6,0.11,1.33,845,82.6,203,11.75,15,2,673,38.97,7,4,35,14,11,99,13
+Ella Powell,42836,Bristol City WFC,Right Wing Back,20,1553.8,5,0.55,1,3,0.03,0.29,597,59.1,292,16.91,8,0,443,25.66,43,24,54,13,43,99,62
+Rebecca Leigh Spencer,18158,Tottenham Hotspur Women,Goalkeeper,16,1546.0,0,0.0,0,0,0.0,0.0,605,86.0,285,16.59,0,0,351,20.43,0,0,0,0,0,72,0
+Amber Tysiak,276907,West Ham United LFC,Center Back,17,1530.8,7,0.56,1,2,0.03,0.41,590,85.9,168,9.88,3,0,427,25.1,2,1,41,14,19,72,90
+Emma Wilhelmina Koivisto,32403,Liverpool WFC,Right Wing Back,19,1530.2,15,2.35,2,4,0.14,0.88,684,77.9,199,11.7,8,0,410,24.11,20,10,58,19,23,92,45
+Leila Ouahabi El Ouahabi,10163,Manchester City WFC,Left Back,17,1519.3,11,1.05,1,4,0.06,0.65,1093,88.2,229,13.57,12,4,811,48.04,13,11,50,20,16,78,24
+Kenza Dali,15421,Aston Villa W,Left Center Midfield,17,1505.4,27,1.42,1,13,0.09,1.61,998,74.6,273,16.32,39,2,897,53.63,33,13,21,7,17,125,11
+Bethany Mead,15619,Arsenal WFC,Right Wing,20,1499.9,45,6.79,8,18,0.41,2.7,769,68.3,156,9.36,44,4,710,42.6,42,18,74,28,10,98,6
+Celin Bizet Ildhusøy,87194,Tottenham Hotspur Women,Right Wing,20,1484.1,29,2.77,4,14,0.17,1.76,513,71.0,100,6.06,19,1,563,34.14,73,40,63,28,25,90,15
+Marie Therese Höbinger,46974,Liverpool WFC,Right Center Midfield,22,1471.7,26,1.4,5,12,0.09,1.59,801,68.2,263,16.08,44,6,568,34.74,26,11,58,14,12,113,23
+Rachael Laws,33664,Liverpool WFC,Goalkeeper,15,1463.0,0,0.0,0,0,0.0,0.0,794,70.3,591,36.36,0,0,534,32.85,2,2,0,0,0,74,0
+Khadija Monifa Shaw,25554,Manchester City WFC,Center Forward,18,1462.4,80,12.41,21,37,0.76,4.92,330,70.3,72,4.43,21,3,423,26.03,44,25,42,7,9,73,6
+Danielle Turner,15571,Aston Villa W,Left Center Back,18,1445.1,9,0.43,1,1,0.03,0.56,940,85.2,362,22.55,3,0,688,42.85,1,1,38,8,31,58,95
+Brooke Aspin,185545,Bristol City WFC,Right Center Back,17,1441.1,10,0.78,2,3,0.05,0.62,454,73.6,245,15.3,1,0,266,16.61,3,2,36,14,21,16,94
+Emma Nanny Charlotte Kullberg,34500,Brighton & Hove Albion WFC,Right Back,21,1434.9,2,0.03,0,1,0.0,0.13,674,73.0,306,19.19,4,0,462,28.98,19,7,47,13,19,70,39
+Martha Thomas,31558,Tottenham Hotspur Women,Center Forward,19,1433.3,46,6.46,7,27,0.41,2.89,389,68.6,79,4.96,10,3,376,23.61,33,15,44,6,5,51,17
+Catherine Joan Bott,25662,Leicester City WFC,Right Back,20,1420.3,4,0.18,0,2,0.01,0.25,854,74.2,333,21.1,6,0,645,40.87,22,15,62,27,29,128,40
+Heather Payne,16382,Everton LFC,Right Wing Back,17,1413.7,5,0.38,0,2,0.02,0.32,577,69.5,151,9.61,11,0,512,32.6,67,26,67,32,20,99,33
+Kim Little,15616,Arsenal WFC,Center Attacking Midfield,17,1413.4,17,3.14,1,6,0.2,1.08,807,88.8,161,10.25,21,2,697,44.38,20,15,33,16,8,112,13
+Hanna Ulrika Bennison,34499,Everton LFC,Left Center Midfield,20,1398.1,14,0.52,1,6,0.03,0.9,507,72.8,148,9.53,10,1,485,31.22,26,15,45,11,15,82,18
+Leah Galton,31539,Manchester United W,Left Wing,18,1393.7,19,3.17,2,6,0.2,1.23,478,69.9,105,6.78,13,2,426,27.51,16,10,44,13,8,68,20
+Naomi Layzell,46741,Bristol City WFC,Left Center Back,16,1388.8,8,0.57,0,0,0.04,0.52,524,61.3,325,21.06,0,1,304,19.7,9,5,60,21,21,64,100
+Gun Nathalie Björn,26093,Chelsea FCW,Left Center Back,17,1388.2,8,1.36,2,4,0.09,0.52,954,86.1,401,26.0,4,2,774,50.18,9,7,30,8,17,70,60
+Janina Leitzig,46988,Leicester City WFC,Goalkeeper,14,1381.0,0,0.0,0,0,0.0,0.0,677,85.1,395,25.74,0,0,467,30.43,0,0,0,0,0,63,3
+Daphne van Domselaar,32339,Aston Villa W,Goalkeeper,14,1368.0,0,0.0,0,0,0.0,0.0,692,80.9,388,25.53,0,0,447,29.41,0,0,0,0,0,67,0
+Taylor Hinds,19687,Liverpool WFC,Left Wing Back,16,1352.1,16,0.71,2,5,0.05,1.07,775,76.0,253,16.84,9,2,523,34.81,27,16,56,19,32,86,46
+Lucía García Córdoba,25513,Manchester United W,Left Wing,22,1351.1,40,4.2,3,14,0.28,2.66,351,67.2,59,3.93,14,2,472,31.44,65,31,60,15,13,95,6
+Luana Bühler,46972,Tottenham Hotspur Women,Right Center Back,16,1336.7,4,0.47,0,2,0.03,0.27,900,89.6,354,23.84,0,0,723,48.68,2,2,38,12,11,49,69
+Poppy Pattinson,17274,Brighton & Hove Albion WFC,Left Back,16,1329.7,8,0.4,0,2,0.03,0.54,643,70.9,226,15.3,8,1,469,31.74,18,8,49,18,17,79,24
+Mary Boio Fowler,35693,Manchester City WFC,Right Wing,21,1308.2,24,2.2,4,10,0.15,1.65,632,80.5,111,7.64,33,6,649,44.65,42,31,33,8,12,80,13
+Pauline Bremer,20725,Brighton & Hove Albion WFC,Left Wing,16,1280.2,15,2.4,2,7,0.17,1.05,470,65.5,129,9.07,15,2,429,30.16,27,10,59,16,19,80,21
+Alanna Stephanie Kennedy,5078,Manchester City WFC,Right Center Back,17,1275.3,13,1.22,0,2,0.09,0.92,966,88.3,387,27.31,1,0,806,56.88,8,5,29,5,11,77,70
+Nikita Parris,4654,Manchester United W,Center Forward,21,1262.8,37,4.54,8,18,0.32,2.64,325,77.5,55,3.92,18,1,345,24.59,22,9,50,14,8,56,9
+Courtney Jade Nevin,132033,Leicester City WFC,Left Back,16,1248.5,5,0.22,0,2,0.02,0.36,591,73.1,244,17.59,16,1,386,27.83,17,8,49,8,18,66,38
+Amy Turner,31533,Tottenham Hotspur Women,Right Center Back,14,1247.9,3,0.35,1,2,0.03,0.22,633,90.4,235,16.95,0,0,507,36.57,1,1,39,6,18,36,77
+Kirsty Hanson,31532,Aston Villa W,Left Wing,16,1244.8,22,1.76,0,5,0.13,1.59,422,64.5,67,4.84,14,1,477,34.49,50,24,58,22,17,85,14
+Johanna Rytting-Kaneryd,62710,Chelsea FCW,Right Wing,19,1238.2,22,4.01,4,11,0.29,1.6,483,76.6,100,7.27,16,5,486,35.33,38,23,32,13,19,88,3
+Lia Wälti,10405,Arsenal WFC,Left Defensive Midfield,15,1236.2,5,0.31,0,0,0.02,0.36,796,86.9,260,18.93,5,3,688,50.09,15,12,50,32,22,92,27
+Mayumi Pacheco,15724,Aston Villa W,Left Back,18,1220.6,8,1.14,1,3,0.08,0.59,768,82.4,218,16.07,5,2,524,38.64,18,7,41,14,25,86,25
+Adriana Kristina Leon,8297,Aston Villa W,Right Wing,18,1218.3,26,2.75,5,16,0.2,1.92,354,72.0,38,2.81,20,3,407,30.07,57,27,36,11,8,80,7
+Sjoeke Nüsken,47008,Chelsea FCW,Center Attacking Midfield,21,1203.0,37,6.9,7,16,0.52,2.77,620,76.9,168,12.57,11,3,518,38.75,10,10,62,23,13,55,20
+Jayde Yuk Fun Riviere,25785,Manchester United W,Right Back,15,1194.5,4,0.07,0,2,0.01,0.3,697,79.6,220,16.58,9,1,531,40.01,24,13,51,19,17,60,33
+Geyse da Silva Ferreira,25543,Manchester United W,Center Forward,19,1183.5,41,2.86,1,13,0.22,3.12,290,57.6,67,5.09,10,2,532,40.46,105,51,57,23,5,104,2
+Aileen Whelan,16374,Leicester City WFC,Center Forward,19,1168.5,25,2.45,1,10,0.19,1.93,356,69.4,75,5.78,7,1,298,22.95,13,5,49,8,10,46,11
+Kerstin Yasmijn Casparij,221888,Manchester City WFC,Right Back,18,1156.3,3,0.16,0,1,0.01,0.23,767,87.2,221,17.2,6,0,576,44.83,16,6,48,15,8,58,24
+Lisa Evans,10179,Bristol City WFC,Right Wing Back,18,1155.2,7,0.62,1,3,0.05,0.55,495,69.1,150,11.69,14,1,347,27.03,16,7,16,4,9,46,14
+Lauren James,31531,Chelsea FCW,Right Wing,16,1151.0,61,5.83,13,25,0.46,4.77,487,79.7,135,10.56,14,1,511,39.96,30,21,29,5,3,50,4
+Jessica Naz,61467,Tottenham Hotspur Women,Center Forward,22,1147.7,22,2.34,3,12,0.18,1.73,303,73.9,55,4.31,16,4,350,27.45,35,20,40,12,4,62,4
+Emily Syme,15716,Bristol City WFC,Left Defensive Midfield,22,1136.4,7,0.36,0,0,0.03,0.55,331,77.6,88,6.97,8,1,260,20.59,8,6,36,8,10,54,15
+Guro Reiten,10514,Chelsea FCW,Left Wing,16,1120.5,28,5.52,7,14,0.44,2.25,452,62.6,116,9.32,32,6,375,30.12,19,12,32,7,8,46,11
+Anouk Denton,50193,West Ham United LFC,Right Wing Back,15,1087.6,3,0.2,0,2,0.02,0.25,466,76.0,169,13.98,8,0,334,27.64,11,5,42,14,25,56,29
+Jessica Park,19498,Manchester City WFC,Right Center Midfield,18,1087.2,30,3.77,4,14,0.31,2.48,524,87.6,85,7.04,15,5,532,44.04,36,22,34,17,3,82,5
+Laura Coombs,19416,Manchester City WFC,Left Center Midfield,17,1074.5,31,3.5,3,10,0.29,2.6,389,84.8,68,5.7,14,2,364,30.49,15,7,19,7,8,49,10
+Bethany England,15550,Tottenham Hotspur Women,Right Center Forward,14,1066.5,31,5.14,5,17,0.43,2.62,303,72.9,78,6.58,9,0,299,25.23,16,6,47,6,4,39,19
+Lisa Fjeldstad Naalsund,386105,Manchester United W,Right Defensive Midfield,17,1062.8,12,0.93,2,6,0.08,1.02,471,78.6,130,11.01,13,2,437,37.01,19,14,44,18,20,74,4
+Angharad James,15577,Tottenham Hotspur Women,Right Back,11,1054.6,9,0.61,0,2,0.05,0.77,633,80.3,235,20.06,8,0,412,35.16,4,0,31,18,17,53,28
+Ashley Elizabeth Marie Lawrence,15290,Chelsea FCW,Right Back,18,1049.0,5,0.73,1,2,0.06,0.43,625,82.2,194,16.64,9,0,482,41.35,23,15,42,13,7,57,24
+Elise Isolde Stenevik,224149,Everton LFC,Left Center Back,11,1037.0,3,0.2,1,1,0.02,0.26,532,75.6,220,19.09,7,0,440,38.19,15,10,32,11,9,45,25
+Amanda Ilestedt,26092,Arsenal WFC,Right Center Back,12,1036.6,7,0.72,1,1,0.06,0.61,616,86.0,262,22.75,1,0,465,40.37,1,1,36,5,5,36,50
+Jorelyn Andrea Daniela Carabalí Martínez,388473,Brighton & Hove Albion WFC,Left Center Back,13,1025.6,7,0.45,0,2,0.04,0.61,538,71.9,228,20.01,1,0,385,33.78,10,6,41,12,20,51,42
+Shannon Cooke,370018,West Ham United LFC,Left Center Back,19,1022.6,8,0.45,1,1,0.04,0.7,471,69.2,268,23.59,0,0,330,29.04,2,0,36,11,9,46,56
+Josie Green,4865,Leicester City WFC,Right Center Back,16,1019.1,2,0.1,0,0,0.01,0.18,618,80.7,266,23.49,2,0,477,42.13,7,5,35,13,14,81,46
+Saori Takarada,25604,Leicester City WFC,Center Defensive Midfield,12,1019.0,12,1.2,1,5,0.11,1.06,454,80.6,149,13.16,5,1,356,31.44,6,4,36,17,10,75,16
+Yuka Momiki,26520,Leicester City WFC,Left Center Midfield,12,1013.1,20,2.24,2,12,0.2,1.78,411,75.2,131,11.64,15,3,380,33.76,25,12,30,9,11,61,8
+Missy Bo Kearns,24237,Liverpool WFC,Right Center Midfield,20,997.8,23,1.42,1,9,0.13,2.07,410,65.9,109,9.83,19,1,311,28.05,18,9,63,15,9,61,16
+Olga Ahtinen,229194,Tottenham Hotspur Women,Right Defensive Midfield,16,997.0,8,0.45,1,4,0.04,0.72,695,80.3,236,21.3,16,2,524,47.3,8,6,31,14,23,59,13
+Francesca Kirby,4641,Chelsea FCW,Center Attacking Midfield,21,992.7,24,4.83,3,12,0.44,2.18,462,84.8,111,10.06,29,2,417,37.81,16,7,35,12,9,51,5
+Hannah Hampton,22032,Chelsea FCW,Goalkeeper,10,973.0,0,0.0,0,0,0.0,0.0,470,79.6,315,29.14,0,0,333,30.8,0,0,0,0,0,46,0
+Maisie Symonds,85004,Brighton & Hove Albion WFC,Left Defensive Midfield,20,965.4,9,0.32,0,4,0.03,0.84,484,74.8,169,15.76,11,2,446,41.58,32,19,37,15,15,104,9
+Jill Roord,10650,Manchester City WFC,Left Center Midfield,11,960.3,27,4.36,6,10,0.41,2.53,449,88.6,83,7.78,11,2,403,37.77,16,10,41,14,8,61,8
+Emma Bissell,46738,Everton LFC,Right Wing,22,953.6,9,1.17,1,3,0.11,0.85,250,67.6,63,5.95,1,0,239,22.56,13,8,26,5,1,47,9
+Lucy Hope,16386,Everton LFC,Right Wing Back,14,950.6,13,1.3,0,3,0.12,1.23,426,71.4,159,15.05,4,0,329,31.15,20,8,27,10,7,49,26
+Eve Perisset,10418,Chelsea FCW,Right Back,13,940.9,2,0.16,0,1,0.02,0.19,819,84.4,315,30.13,28,1,568,54.33,9,5,38,19,14,62,22
+Katrine Veje,10088,Everton LFC,Left Center Back,13,933.2,3,0.08,0,1,0.01,0.29,671,83.0,214,20.64,11,2,550,53.04,9,4,17,7,12,74,17
+Martina Piemonte,45737,Everton LFC,Center Forward,19,929.3,32,4.12,3,13,0.4,3.1,236,65.7,55,5.33,3,1,261,25.28,22,13,24,5,4,43,10
+Geum-Min Lee,25453,Brighton & Hove Albion WFC,Left Wing,20,926.3,9,1.39,2,3,0.13,0.87,338,75.1,94,9.13,11,1,360,34.98,18,10,35,7,5,57,10
+Sara Holmgaard,32229,Everton LFC,Left Center Back,12,925.3,7,0.65,2,3,0.06,0.68,433,78.1,137,13.33,10,3,351,34.14,16,7,34,13,18,50,31
+Jessica Ziu,322322,West Ham United LFC,Right Wing,16,916.2,12,1.78,0,3,0.17,1.18,303,69.3,76,7.47,18,1,301,29.57,32,16,38,12,5,59,11
+Millie Bright,4642,Chelsea FCW,Right Center Back,10,911.4,12,1.03,1,3,0.1,1.18,735,86.0,316,31.2,2,0,580,57.27,3,1,28,10,12,47,47
+Sophie Louise Ingle,15549,Chelsea FCW,Left Defensive Midfield,14,910.2,7,0.65,0,1,0.06,0.69,627,83.3,221,21.85,13,3,439,43.41,1,1,27,11,10,50,14
+Tatiana Vanessa Ferreira Pinto,10167,Brighton & Hove Albion WFC,Center Attacking Midfield,20,907.2,12,2.12,2,6,0.21,1.19,318,75.8,91,9.03,9,0,303,30.06,10,5,40,13,3,54,11
+Shelina Laura Zadorsky,5074,West Ham United LFC,Left Center Back,11,902.0,1,0.11,0,0,0.01,0.1,437,75.3,224,22.35,1,0,308,30.73,3,1,26,6,13,51,47
+Frida Maanum,10516,Arsenal WFC,Center Attacking Midfield,21,891.2,41,2.62,3,13,0.26,4.14,294,75.2,74,7.47,11,0,290,29.28,15,5,21,5,9,45,2
+Amanda Nildén,21023,Tottenham Hotspur Women,Left Back,10,879.5,9,0.67,0,1,0.07,0.92,492,77.6,182,18.62,6,0,374,38.27,24,16,23,10,14,70,30
+Laura Madison Blindkilde Brown,33675,Aston Villa W,Left Center Midfield,15,871.9,12,1.88,1,3,0.19,1.24,331,82.2,59,6.09,10,0,346,35.71,18,10,41,18,16,58,3
+Melvine Malard,31614,Manchester United W,Center Forward,19,870.9,27,3.95,6,14,0.41,2.79,246,75.6,46,4.75,8,1,248,25.63,16,12,41,6,9,45,8
+Melanie Leupolz,15648,Chelsea FCW,Left Defensive Midfield,11,870.8,16,1.17,1,3,0.12,1.65,534,80.3,174,17.98,10,1,382,39.48,13,8,35,13,12,73,21
+Kathrine Møller Kühl,276443,Everton LFC,Left Center Midfield,12,853.0,6,0.31,0,1,0.03,0.63,356,80.6,82,8.65,5,1,367,38.72,32,21,31,13,11,53,2
+Veatriki Sarri,105102,Brighton & Hove Albion WFC,Left Wing,19,841.1,14,1.78,0,4,0.19,1.5,275,65.8,51,5.46,6,2,301,32.21,21,12,44,20,8,66,7
+Emily Ann Fox,107491,Arsenal WFC,Right Back,10,837.0,9,0.73,0,5,0.08,0.97,647,82.7,170,18.28,13,2,481,51.72,9,5,26,9,17,78,15
+Lucy Staniforth,15562,Aston Villa W,Left Defensive Midfield,11,807.8,7,0.12,0,4,0.01,0.78,509,76.4,168,18.72,9,1,384,42.78,10,6,25,12,17,71,17
+Jasmine Matthews,15618,Liverpool WFC,Left Wing Back,12,792.7,3,0.37,0,0,0.04,0.34,390,70.5,157,17.82,6,1,267,30.31,17,10,31,13,9,52,18
+Emma Stina Blackstenius,10229,Arsenal WFC,Center Forward,19,786.8,44,7.93,7,14,0.91,5.03,175,74.3,20,2.29,12,0,206,23.56,12,5,20,6,1,37,2
+Missy Goodwin,112522,Leicester City WFC,Left Midfield,17,782.8,10,0.98,1,3,0.11,1.15,177,74.0,31,3.56,12,0,220,25.29,29,12,20,8,4,51,3
+Lize Kop,63784,Leicester City WFC,Goalkeeper,8,771.0,0,0.0,0,0,0.0,0.0,462,87.0,245,28.6,0,0,346,40.39,0,0,0,0,0,21,0
+Agnes Beever-Jones,81580,Chelsea FCW,Right Wing,17,757.1,41,5.99,11,23,0.71,4.87,237,74.7,36,4.28,7,2,281,33.4,33,20,29,6,2,37,3
+Abigail Harrison,23412,Bristol City WFC,Center Forward,15,750.8,14,0.95,1,3,0.11,1.68,238,58.8,65,7.79,4,0,207,24.81,15,1,36,2,3,48,14
+Cloé Zoé Eyja Lacasse,62906,Arsenal WFC,Right Wing,19,732.4,16,2.15,3,5,0.26,1.97,276,76.8,45,5.53,18,2,272,33.42,22,11,34,14,8,45,7
+Ingrid Filippa Angeldal,62666,Manchester City WFC,Right Center Midfield,13,728.7,14,1.19,0,8,0.15,1.73,329,79.3,89,10.99,10,0,315,38.9,8,4,27,11,4,46,16
+Rachel Williams,31563,Manchester United W,Center Forward,21,718.7,28,4.55,5,8,0.57,3.51,165,70.9,34,4.26,7,1,132,16.53,2,0,38,6,3,38,7
+Kit Graham,31551,Tottenham Hotspur Women,Left Defensive Midfield,18,716.1,15,0.66,0,2,0.08,1.89,324,69.8,139,17.47,6,0,294,36.95,25,16,30,14,7,60,28
+Drew Spence,4638,Tottenham Hotspur Women,Center Attacking Midfield,12,714.3,22,2.48,2,11,0.31,2.77,377,83.6,103,12.98,11,2,330,41.58,12,5,16,8,8,42,3
+Emma Harries,46635,West Ham United LFC,Right Wing,17,705.3,6,1.1,0,2,0.14,0.77,151,64.2,36,4.59,9,0,176,22.46,9,3,24,9,8,22,9
+Alisha Lehmann,18153,Aston Villa W,Right Midfield,15,697.7,11,1.62,2,5,0.21,1.42,160,75.6,22,2.84,2,0,187,24.12,17,4,12,2,6,41,2
+Leah Williamson,18999,Arsenal WFC,Right Center Back,9,688.4,3,0.18,0,0,0.02,0.39,753,88.4,345,45.1,5,0,597,78.05,3,2,18,2,12,41,23
+Shae Yanez,33067,Bristol City WFC,Goalkeeper,7,687.0,0,0.0,0,0,0.0,0.0,259,72.6,164,21.48,0,0,140,18.34,1,1,0,0,0,33,0
+Teagan Jade Micah,131588,Liverpool WFC,Goalkeeper,7,686.0,0,0.0,0,0,0.0,0.0,403,78.9,298,39.1,0,0,266,34.9,0,0,0,0,0,35,0
+Zecira Musovic,62713,Chelsea FCW,Goalkeeper,7,677.0,0,0.0,0,0,0.0,0.0,209,74.2,139,18.48,0,0,120,15.95,0,0,0,0,0,17,0
+Anna Jessica Leat,131589,Aston Villa W,Goalkeeper,7,674.1,0,0.0,0,0,0.0,0.0,321,81.9,167,22.3,0,0,192,25.64,0,0,0,0,0,31,0
+Mia Enderby,329372,Liverpool WFC,Right Center Forward,14,672.6,13,1.23,0,7,0.16,1.74,89,64.0,14,1.87,4,1,135,18.06,8,3,25,6,4,23,5
+Melissa Lawley,15547,Liverpool WFC,Right Center Forward,17,671.3,8,0.22,1,3,0.03,1.07,176,67.6,35,4.69,11,2,214,28.69,29,9,19,2,4,42,1
+Nicoline Sørensen,10274,Everton LFC,Right Center Forward,9,670.4,14,1.01,0,5,0.14,1.88,201,65.2,40,5.37,6,0,179,24.03,10,3,15,7,3,25,2
+Madison Haley,405188,Brighton & Hove Albion WFC,Right Wing,13,663.6,15,2.0,2,5,0.27,2.03,187,64.2,50,6.78,6,1,190,25.77,9,5,26,5,1,37,5
+Ebony Salmon,31527,Aston Villa W,Right Wing,18,662.6,14,1.41,3,7,0.19,1.9,124,60.5,19,2.58,4,1,151,20.51,26,11,14,0,5,35,5
+Deanne Cynthia Rose,25601,Leicester City WFC,Left Midfield,15,659.4,10,1.12,0,3,0.15,1.36,137,64.2,23,3.14,9,1,199,27.16,20,10,28,8,6,38,2
+Abbey-Leigh Stringer,15573,West Ham United LFC,Right Defensive Midfield,8,655.7,2,0.08,0,0,0.01,0.27,265,80.8,69,9.47,2,0,211,28.96,8,5,16,8,19,46,10
+Hayley Ladd,19501,Manchester United W,Right Defensive Midfield,11,654.8,8,0.89,2,3,0.12,1.1,279,82.1,74,10.17,3,0,205,28.18,4,1,43,18,13,40,19
+Cecilie Maag Struck,337710,Bristol City WFC,Left Center Back,9,651.4,2,0.12,0,0,0.02,0.28,237,81.4,97,13.4,1,0,157,21.69,0,0,23,7,11,18,53
+Kyra Lillee Cooney-Cross,131586,Arsenal WFC,Left Defensive Midfield,14,625.6,4,0.14,0,1,0.02,0.58,379,89.4,93,13.38,12,2,339,48.77,16,14,11,4,8,48,6
+Olivia Clarke,326619,Bristol City WFC,Goalkeeper,7,618.4,0,0.0,0,0,0.0,0.0,182,64.3,143,20.81,0,0,94,13.68,0,0,0,0,0,26,1
+Katrina Gorry,4979,West Ham United LFC,Right Defensive Midfield,7,615.3,9,0.45,0,2,0.07,1.32,312,70.8,117,17.11,6,0,323,47.24,21,12,30,14,14,73,7
+Samantha May Kerr,4961,Chelsea FCW,Center Forward,8,606.6,25,4.36,4,11,0.65,3.71,191,79.1,21,3.12,12,2,152,22.55,1,0,15,2,4,15,2
+Rachel Furness,15706,Bristol City WFC,Left Defensive Midfield,10,593.0,7,0.27,1,3,0.04,1.06,177,53.7,77,11.69,0,1,139,21.1,10,5,29,10,7,38,20
+Mengwen Li,131575,Brighton & Hove Albion WFC,Right Back,11,588.9,3,0.2,0,0,0.03,0.46,234,71.8,91,13.91,1,0,156,23.84,5,2,17,6,7,25,21
+Hinata Miyazawa,401932,Manchester United W,Right Center Midfield,12,587.4,19,1.46,1,6,0.22,2.91,246,82.1,52,7.97,7,1,204,31.25,7,3,17,3,12,39,4
+Esme Beth Morgan,4649,Manchester City WFC,Right Back,9,585.8,3,0.18,0,2,0.03,0.46,420,86.9,158,24.27,1,0,276,42.4,1,1,18,6,3,23,23
+Mari Ward,345061,Bristol City WFC,Left Wing,21,582.4,4,0.37,0,1,0.06,0.62,162,64.2,57,8.81,1,0,167,25.81,17,8,29,11,7,45,17
+Barbara Votíková,24400,Tottenham Hotspur Women,Goalkeeper,6,581.0,0,0.0,0,0,0.0,0.0,199,79.9,91,14.1,0,0,105,16.27,0,0,0,0,0,30,0
+Emma Snerle,32227,West Ham United LFC,Center Attacking Midfield,11,572.3,3,0.16,0,2,0.03,0.47,180,66.7,53,8.33,7,1,156,24.53,7,4,20,5,9,32,6
+Niamh Fahey,19777,Liverpool WFC,Center Back,8,564.9,3,0.19,0,0,0.03,0.48,308,86.4,99,15.77,0,1,221,35.21,1,0,22,11,9,31,36
+Shanice van de Sanden,10648,Liverpool WFC,Right Center Forward,10,546.6,10,1.57,1,4,0.26,1.65,125,54.4,21,3.46,0,0,159,26.18,13,6,22,6,3,29,0
+Simone Magill,15559,Aston Villa W,Center Forward,14,544.6,5,0.33,0,1,0.05,0.83,165,66.1,24,3.97,5,1,158,26.11,9,3,35,13,4,19,7
+Karen Holmgaard,32230,Everton LFC,Right Center Back,13,530.9,7,0.62,2,2,0.1,1.19,278,82.4,102,17.29,6,0,225,38.15,3,2,19,5,8,33,12
+Shannon O’Brien,135759,Leicester City WFC,Left Wing,9,529.3,13,1.53,1,7,0.26,2.21,149,70.5,20,3.4,6,0,180,30.61,25,8,30,15,2,31,10
+Lucy Parker,135947,Aston Villa W,Right Defensive Midfield,8,528.7,5,0.34,1,2,0.06,0.85,197,76.1,57,9.7,4,0,186,31.66,12,9,25,9,8,44,17
+Charlotte Layne Grant,132034,Tottenham Hotspur Women,Right Back,8,507.4,5,1.16,0,1,0.21,0.89,230,82.6,65,11.53,5,0,175,31.04,6,4,15,11,4,30,14
+Gemma Evans,16381,Manchester United W,Left Back,12,494.4,0,0.0,0,0,0.0,0.0,323,78.0,105,19.12,6,1,213,38.78,1,1,19,6,7,20,16
+Leanne Kiernan,18146,Liverpool WFC,Right Center Forward,14,493.1,15,3.14,5,9,0.57,2.74,131,68.7,21,3.83,2,2,155,28.29,13,5,22,5,5,28,2
+Laia Codina Panedas,32694,Arsenal WFC,Left Center Back,8,492.9,3,0.34,0,0,0.06,0.55,361,88.6,138,25.2,0,0,303,55.32,1,0,13,4,5,21,22
+Hannah Cain,18253,Leicester City WFC,Left Wing,8,489.6,3,0.18,0,1,0.03,0.55,122,54.1,29,5.33,3,2,123,22.61,11,4,14,3,2,29,0
+Kadeisha Buchanan,15357,Chelsea FCW,Left Center Back,7,481.2,2,0.2,1,1,0.04,0.37,369,90.8,138,25.81,1,0,290,54.24,1,0,26,7,11,37,16
+Francesca Bentley,64240,Bristol City WFC,Goalkeeper,5,477.0,0,0.0,0,0,0.0,0.0,207,70.5,146,27.55,0,0,108,20.38,0,0,0,0,0,23,0
+Ann-Katrin Berger,15560,Chelsea FCW,Goalkeeper,5,477.0,0,0.0,0,0,0.0,0.0,197,70.6,138,26.04,0,0,139,26.23,0,0,0,0,0,18,0
+Chloe Mustaki,326618,Bristol City WFC,Left Center Back,6,474.4,2,0.12,0,0,0.02,0.38,218,65.1,108,20.49,0,0,109,20.68,2,0,15,6,6,22,12
+Asmita Ale,46541,Leicester City WFC,Right Back,11,469.3,0,0.0,0,0,0.0,0.0,240,76.2,87,16.68,4,0,149,28.57,5,3,16,6,10,24,11
+Charlize Jayde Rule,405180,Brighton & Hove Albion WFC,Right Wing Back,9,462.4,1,0.18,0,0,0.04,0.19,237,77.2,95,18.49,4,0,168,32.7,7,4,17,7,12,32,13
+Jessie Alexandra Fleming,25612,Chelsea FCW,Center Attacking Midfield,10,452.8,7,1.41,1,3,0.28,1.39,229,81.2,43,8.55,5,3,207,41.15,12,8,14,2,5,35,2
+Karoline Olesen,410042,Everton LFC,Right Center Midfield,13,446.1,0,0.0,0,0,0.0,0.0,184,76.6,63,12.71,5,1,177,35.71,10,4,26,11,3,35,3
+Maren Nævdal Mjelde,10395,Chelsea FCW,Right Center Back,7,439.4,2,0.12,0,1,0.02,0.41,378,90.5,90,18.44,3,0,310,63.5,3,1,12,4,6,22,25
+Miriael Taylor,225576,Aston Villa W,Left Defensive Midfield,11,408.7,2,0.51,1,2,0.11,0.44,178,78.7,44,9.69,2,0,131,28.85,6,4,24,8,11,20,7
+Melisa Filis,23320,West Ham United LFC,Left Defensive Midfield,9,406.0,3,0.13,0,1,0.03,0.66,157,73.2,52,11.53,2,0,142,31.48,8,3,4,1,0,38,5
+Mayra Tatiana Ramírez Ramírez,53188,Chelsea FCW,Center Forward,7,399.1,12,1.9,3,6,0.43,2.71,106,79.2,17,3.83,4,1,148,33.37,22,11,15,6,0,24,1
+Matilda Liv Vinberg,224167,Tottenham Hotspur Women,Right Wing,11,397.1,11,0.96,1,2,0.22,2.49,139,69.8,29,6.57,11,1,154,34.9,23,10,6,2,3,25,6
+Sabrina D’Angelo,5102,Arsenal WFC,Goalkeeper,4,389.0,0,0.0,0,0,0.0,0.0,140,85.0,72,16.66,0,0,103,23.83,0,0,0,0,0,19,0
+Catarina Cantanhede Melônio Macário,84901,Chelsea FCW,Center Forward,8,388.7,16,1.31,1,5,0.3,3.7,212,68.4,55,12.73,15,4,175,40.52,14,8,12,3,0,19,5
+Mia Renee Fishel,361311,Chelsea FCW,Center Forward,10,386.8,13,1.49,1,5,0.35,3.02,98,72.4,9,2.09,3,1,114,26.53,13,6,15,0,2,16,2
+Jelena Canković,62709,Chelsea FCW,Right Defensive Midfield,9,383.2,7,0.49,0,2,0.12,1.64,294,85.4,91,21.37,6,2,260,61.06,6,4,13,9,2,27,1
+Shania Hayles,19499,Bristol City WFC,Left Wing,15,381.5,5,0.84,0,1,0.2,1.18,70,74.3,16,3.77,1,0,93,21.94,10,4,14,5,1,22,4
+Jasmine Bull,185544,Bristol City WFC,Right Wing Back,9,378.1,0,0.0,0,0,0.0,0.0,119,61.3,43,10.23,0,0,82,19.52,3,1,7,2,7,20,12
+Yana Daniëls,10093,Liverpool WFC,Right Wing Back,12,373.2,2,0.34,0,1,0.08,0.48,126,68.3,43,10.37,1,1,81,19.53,4,2,23,4,3,14,12
+Ramona Petzelberger,46533,Tottenham Hotspur Women,Right Defensive Midfield,10,362.9,3,0.12,0,0,0.03,0.74,145,83.4,27,6.7,0,0,126,31.25,4,2,16,3,7,16,5
+Maika Hamano,389365,Chelsea FCW,Right Wing,6,351.5,14,2.11,2,4,0.54,3.58,181,80.1,52,13.32,2,0,180,46.09,12,6,23,10,5,35,1
+Lucy Parry,55069,Liverpool WFC,Right Wing Back,10,343.8,1,0.02,0,1,0.01,0.26,147,74.1,54,14.14,4,0,106,27.75,10,5,18,3,3,23,14
+Aimee Palmer,36801,Leicester City WFC,Left Defensive Midfield,7,340.9,4,0.21,1,2,0.06,1.06,202,80.2,57,15.05,4,0,137,36.17,2,1,13,4,5,30,7
+Kaylan Marckese,40985,Bristol City WFC,Goalkeeper,4,339.3,0,0.0,0,0,0.0,0.0,127,80.3,70,18.57,0,0,59,15.65,0,0,0,0,0,9,1
+Vivianne Miedema,15623,Arsenal WFC,Center Attacking Midfield,9,333.2,16,1.87,2,4,0.51,4.32,140,84.3,30,8.1,5,1,144,38.9,6,5,10,5,1,20,0
+Sofie Lundgaard,32222,Liverpool WFC,Right Center Midfield,11,322.3,2,0.18,0,0,0.05,0.56,84,63.1,32,8.94,2,0,60,16.75,4,4,22,5,4,19,8
+Megan Walsh,15709,West Ham United LFC,Goalkeeper,3,296.0,0,0.0,0,0,0.0,0.0,121,70.2,82,24.93,0,0,77,23.41,0,0,0,0,0,19,0
+Rikke Marie Madsen,87191,Everton LFC,Left Wing,5,274.1,3,0.95,0,1,0.31,0.98,79,65.8,7,2.3,1,0,78,25.61,8,2,12,5,6,16,2
+Rosella Ayane,21048,Tottenham Hotspur Women,Left Wing,10,263.3,5,0.77,0,0,0.26,1.71,83,62.7,18,6.15,3,0,87,29.74,9,2,14,6,4,21,2
+Toni Duggan,10183,Everton LFC,Right Wing,10,257.9,4,0.27,0,0,0.09,1.4,94,81.9,19,6.63,2,0,67,23.38,4,1,8,4,1,16,0
+Natasha Jane Flint,135758,Liverpool WFC,Right Center Forward,6,257.5,5,0.33,1,1,0.12,1.75,75,70.7,10,3.5,1,0,69,24.12,1,0,15,1,3,13,2
+Aoife Mannion,19503,Manchester United W,Right Back,4,232.0,0,0.0,0,0,0.0,0.0,167,86.2,54,20.95,1,0,123,47.71,4,2,5,3,1,20,6
+Sarah Anne Stratigakis,224845,Bristol City WFC,Left Defensive Midfield,6,229.4,2,0.19,0,1,0.07,0.78,51,70.6,15,5.88,1,0,47,18.44,2,0,8,1,4,12,5
+Ria Percival,18145,Tottenham Hotspur Women,Left Defensive Midfield,6,209.1,4,0.25,1,2,0.11,1.72,97,77.3,25,10.76,2,0,72,30.99,1,1,7,3,5,10,1
+Isibeal Atkinson,337744,West Ham United LFC,Left Midfield,7,208.6,6,0.4,0,2,0.17,2.59,58,55.2,9,3.88,0,0,69,29.76,6,2,5,2,2,16,0
+Gabrielle George,15575,Manchester United W,Left Back,3,204.4,1,0.04,0,0,0.02,0.44,114,78.1,42,18.49,2,1,86,37.86,5,3,4,1,1,5,10
+Jennifer Patricia Beattie,17524,Arsenal WFC,Center Back,3,198.6,1,0.14,0,0,0.06,0.45,93,91.4,35,15.86,0,0,62,28.1,0,0,6,1,1,6,5
+Melina Loeck,225020,Brighton & Hove Albion WFC,Goalkeeper,2,195.0,0,0.0,0,0,0.0,0.0,63,92.1,14,6.46,0,0,44,20.31,0,0,0,0,0,6,1
+Emily Ramsey,46641,Everton LFC,Goalkeeper,2,192.0,0,0.0,0,0,0.0,0.0,71,76.1,43,20.16,0,0,58,27.19,0,0,0,0,0,4,0
+Sophia Poor,322143,Aston Villa W,Goalkeeper,2,189.8,0,0.0,0,0,0.0,0.0,78,69.2,45,21.34,0,0,40,18.97,0,0,0,0,0,12,0
+Satara Murray,15629,Bristol City WFC,Right Center Back,4,186.7,2,0.12,0,0,0.06,0.96,43,74.4,19,9.16,0,0,29,13.98,1,1,6,3,4,9,9
+Anna Marika Bergman Lundin,224866,West Ham United LFC,Left Defensive Midfield,8,183.9,2,0.07,0,0,0.03,0.98,53,49.1,22,10.76,0,0,45,22.02,4,1,11,5,2,6,2
+Shuang Wang,24461,Tottenham Hotspur Women,Left Midfield,6,178.7,8,0.88,0,2,0.44,4.03,80,72.5,20,10.07,4,0,74,37.28,8,3,5,2,0,10,1
+Deyna Cristina Castellanos Naujenis,49938,Manchester City WFC,Right Center Midfield,5,178.5,5,0.3,0,2,0.15,2.52,89,79.8,23,11.59,6,0,85,42.85,3,1,3,2,0,10,0
+Princess Ademiluyi,395055,West Ham United LFC,Center Forward,11,169.3,1,0.05,0,1,0.02,0.53,37,64.9,5,2.66,0,0,54,28.71,5,0,8,5,0,9,1
+Emilia Pelgander,225180,Leicester City WFC,Center Defensive Midfield,8,157.7,2,0.06,0,0,0.03,1.14,65,86.2,11,6.28,0,0,60,34.24,2,1,5,3,2,18,2
+Ava Baker,182500,Leicester City WFC,Left Wing,8,150.4,3,0.32,0,1,0.19,1.8,33,60.6,9,5.39,2,0,42,25.14,5,2,0,0,1,12,1
+Julie Blakstad,191851,Manchester City WFC,Left Back,4,147.2,1,0.07,0,0,0.04,0.61,87,81.6,29,17.74,1,0,64,39.14,3,0,12,3,2,15,3
+Remy Siemsen,241634,Leicester City WFC,Center Forward,6,143.4,0,0.0,0,0,0.0,0.0,31,61.3,11,6.91,0,0,33,20.72,1,1,1,0,0,6,0
+Kristie Mewis,31936,West Ham United LFC,Center Attacking Midfield,3,128.2,3,0.12,0,1,0.08,2.11,44,65.9,17,11.93,0,1,35,24.56,1,1,0,0,0,5,1
+Georgia Mullett,337745,Aston Villa W,Center Forward,6,127.8,1,0.04,0,0,0.03,0.7,12,75.0,2,1.41,0,0,19,13.39,2,2,4,0,0,3,0
+Megan Campbell,23465,Everton LFC,Left Wing Back,6,118.4,1,0.03,0,0,0.02,0.76,43,62.8,18,13.68,2,0,33,25.08,2,1,6,4,0,12,4
+Eleanor Dale,424095,Everton LFC,Center Forward,6,116.4,4,0.44,0,1,0.34,3.09,18,77.8,3,2.32,0,1,25,19.34,1,0,6,1,1,5,0
+Ruby Mace,41812,Manchester City WFC,Center Defensive Midfield,5,96.5,2,0.13,0,0,0.12,1.86,72,83.3,9,8.39,1,0,53,49.42,1,0,6,1,0,8,3
+Nicky Evrard,276896,Brighton & Hove Albion WFC,Goalkeeper,1,95.0,0,0.0,0,0,0.0,0.0,48,77.1,25,23.68,0,0,31,29.37,0,0,0,0,0,9,0
+Stephanie Houghton,10185,Manchester City WFC,Right Center Back,4,84.6,2,0.09,0,0,0.1,2.13,76,88.2,32,34.05,0,0,51,54.27,0,0,0,0,2,3,7
+Lina Mona Andréa Hurtig,25697,Arsenal WFC,Left Wing,2,71.1,5,0.98,1,2,1.25,6.33,14,78.6,7,8.86,1,0,18,22.78,4,0,4,1,0,6,1
+Linyan Zhang,402025,Tottenham Hotspur Women,Left Midfield,3,68.3,1,0.17,0,1,0.23,1.32,9,66.7,1,1.32,0,0,15,19.78,2,2,3,2,1,1,0
+Laura Wienroither,46973,Arsenal WFC,Right Back,4,66.8,2,0.09,0,1,0.12,2.7,52,84.6,9,12.13,0,0,38,51.21,1,0,2,2,1,6,1
+Freya Gregory,33010,Aston Villa W,Left Wing Back,3,58.8,1,0.06,0,1,0.09,1.53,23,73.9,7,10.71,0,0,12,18.35,1,0,2,0,1,2,1
+Ellie Brazil,16393,Tottenham Hotspur Women,Center Forward,3,53.7,2,0.09,0,0,0.16,3.35,14,78.6,3,5.03,0,0,20,33.53,2,1,1,0,1,4,0
+Demi Stokes,4651,Manchester City WFC,Left Back,4,53.1,0,0.0,0,0,0.0,0.0,24,87.5,5,8.47,0,0,16,27.09,1,0,0,0,0,2,0
+Olivia McLoughlin,77717,Aston Villa W,Left Center Midfield,3,50.2,0,0.0,0,0,0.0,0.0,16,81.2,7,12.55,0,0,16,28.68,0,0,2,2,1,6,2
+Irene Guerrero Sanmartín,50150,Manchester United W,Center Attacking Midfield,3,45.1,1,0.03,0,1,0.06,1.99,19,73.7,7,13.96,2,1,21,41.89,0,0,1,0,0,2,0
+Denny Draper,410668,Leicester City WFC,Center Forward,4,41.5,3,0.52,1,1,1.13,6.51,4,50.0,1,2.17,0,0,8,17.35,1,1,4,0,0,2,1
+Dejana Stefanović,87188,Brighton & Hove Albion WFC,Right Defensive Midfield,2,41.4,0,0.0,0,0,0.0,0.0,14,71.4,8,17.41,0,0,13,28.3,0,0,1,0,1,4,1
+Isabella Hobson,423420,Everton LFC,Right Center Back,4,36.7,1,0.08,1,1,0.2,2.45,13,53.8,7,17.16,0,0,10,24.51,0,0,2,1,1,3,0
+Keira Flannery,322325,West Ham United LFC,Right Center Midfield,2,34.4,0,0.0,0,0,0.0,0.0,15,66.7,5,13.1,0,0,15,39.3,0,0,3,1,0,5,0
+Lily Dent,422963,Brighton & Hove Albion WFC,Left Wing,3,28.3,0,0.0,0,0,0.0,0.0,7,71.4,2,6.36,0,0,5,15.9,0,0,2,0,0,2,1
+Zara Shaw,432915,Liverpool WFC,Center Defensive Midfield,1,22.1,0,0.0,0,0,0.0,0.0,2,50.0,0,0.0,0,0,3,12.24,0,0,1,0,0,1,0
+Tianna Teisar,326622,Bristol City WFC,Center Forward,1,16.7,0,0.0,0,0,0.0,0.0,1,100.0,1,5.39,0,0,2,10.79,0,0,0,0,0,1,0
+Michelle Agyemang,338201,Arsenal WFC,Left Midfield,1,12.8,0,0.0,0,0,0.0,0.0,4,50.0,0,0.0,0,0,4,28.09,1,1,0,0,0,0,1
+Grace Lucy McEwan,422964,Brighton & Hove Albion WFC,Left Center Back,1,12.1,0,0.0,0,0,0.0,0.0,1,100.0,1,7.42,0,0,0,0.0,0,0,1,0,0,0,0
+Jessica Woolley,16389,Bristol City WFC,Right Center Forward,1,11.2,0,0.0,0,0,0.0,0.0,5,60.0,1,8.02,0,0,2,16.05,0,0,0,0,0,0,0
+Jessica Simpson,410047,Bristol City WFC,Left Back,1,11.1,0,0.0,0,0,0.0,0.0,4,50.0,3,24.4,0,0,1,8.13,0,0,0,0,0,0,1
+Annie Wilding,353151,Everton LFC,Right Center Back,1,10.7,0,0.0,0,0,0.0,0.0,6,83.3,3,25.19,0,0,6,50.39,0,0,0,0,0,0,0
+Aniek Nouwen,62951,Chelsea FCW,Right Center Back,1,10.4,0,0.0,0,0,0.0,0.0,5,100.0,2,17.36,0,0,5,43.41,0,0,3,0,1,1,1
+Benedicte Håland,46742,Bristol City WFC,Goalkeeper,1,9.3,0,0.0,0,0,0.0,0.0,2,100.0,1,9.71,0,0,1,9.71,0,0,0,0,0,1,0
+Fearne Slocombe,365118,Bristol City WFC,Right Wing Back,1,7.7,0,0.0,0,0,0.0,0.0,3,0.0,0,0.0,0,0,1,11.66,0,0,0,0,0,0,0
+Katie Reid,338202,Arsenal WFC,Right Center Back,1,7.7,0,0.0,0,0,0.0,0.0,13,100.0,4,46.96,1,0,9,105.65,1,1,0,0,0,0,0
+Olivia Johnson,425870,Brighton & Hove Albion WFC,Left Wing,1,5.8,0,0.0,0,0,0.0,0.0,2,50.0,0,0.0,0,0,2,30.95,0,0,0,0,0,1,0
+Mia Leath,429638,Liverpool WFC,Left Center Midfield,1,5.4,0,0.0,0,0,0.0,0.0,1,100.0,0,0.0,0,0,2,33.44,0,0,1,0,0,0,0
+Alyssa Mae Aherne,410041,Everton LFC,Center Forward,1,1.9,0,0.0,0,0,0.0,0.0,1,100.0,0,0.0,0,0,1,48.65,0,0,0,0,0,0,0
+Jessica Stapleton,412877,West Ham United LFC,Left Center Back,1,1.0,0,0.0,0,0,0.0,0.0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0,0,0,0
+Maya Kendall,417523,Bristol City WFC,Center Forward,1,0.6,0,0.0,0,0,0.0,0.0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0,0,0,0
+Macy Settle,423419,Everton LFC,Right Wing,1,0.3,0,0.0,0,0,0.0,0.0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0,0,0,0
